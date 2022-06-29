@@ -1,5 +1,3 @@
-README
-
 The robust Perron Cluster Analysis (PCCA+) has become a popular algorithm
 for coarse-graining transition matrices of nearly decomposable Markov
 chains with transition states. Such matrices arise, for example, from molecular
