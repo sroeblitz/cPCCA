@@ -22,7 +22,7 @@ matrices that are presented in Examples 1 and 2 in the paper
 non-reversible stochastic matrices with complex eigenvalues" 
 by Anna-Simone Frank, Alexander Sikorski and Susanna Röblitz
 
-Contributer: Anna-Simone Frank, Susanna Röblitz
+Contributer: Anna-Simone Frank (anna-simone.frank@uib.no), Susanna Röblitz (susanna.roblitz@uib.no)
 
 Maintainer: Susanna Röblitz
 
@@ -31,7 +31,7 @@ Maintainer: Susanna Röblitz
 
 |File names |			Description |
 |---------------|-----------------------------------------------------------|
-|`main_cpcca_Exp?.m` |  Main file for reproducing the results presented in Example? in the manuscript|
+|`main_cpcca_Exp1.m`  </br> `main_cpcca_Exp2i.m`</br> `main_cpcca_Exp2ii.m` </br> `main_cpcca_Exp2iii.m`  </br> `main_cpcca_Exp2iv.m`|  Main files for reproducing the results presented in Examples 1 and 2(i)-(iv) in the manuscript|
 |`Exp1.mat`    |        Input matrix for `main_cpcca_Exp1.m`|
 |`Exp2_x01.mat`   |     Input matrix for `main_cpcca_Exp2iii.m` and`main_cpcca_Exp2iv.m` |
 |`Exp2_x09.mat`  |      Input matrix for `main_cpcca_Exp2i.m` and `main_cpcca_Exp2ii.m` |
@@ -54,5 +54,5 @@ Maintainer: Susanna Röblitz
 
 # How to run the code
 
-Run one of the files main_cpcca_Exp?.m
+Run one of the files `main_cpcca_Exp1.m`, `main_cpcca_Exp2i.m`, `main_cpcca_Exp2ii.m`, `main_cpcca_Exp2iii.m` or `main_cpcca_Exp2iv.m` in order to replicate the results from the manuscript.
 
