@@ -18,7 +18,9 @@ matrices that are presented in Examples 1 and 2 in the paper
 
 "Robust Perron Cluster analysis for coarse-graining of
 non-reversible stochastic matrices with complex eigenvalues" 
-by Anna-Simone Frank, Alexander Sikorski and Susanna Röblitz
+by Anna-Simone Frank, Alexander Sikorski and Susanna Röblitz, arXiv 2022
+
+https://doi.org/10.48550/arXiv.2206.14537
 
 Contributer: Anna-Simone Frank (anna-simone.frank@uib.no), Susanna Röblitz (susanna.roblitz@uib.no)
 
